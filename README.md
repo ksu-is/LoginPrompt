@@ -5,7 +5,7 @@ Our idea is to create a Login System using little Python console where we ask th
 
 <h1> Project Structure </h1>
 
-First of all install Python3 and pip on your system from their respective sites, then we make use of something called virtualenv to make our project locally sustainable and encapsulate it.
+First of all install Python3 and pip on your system from their respective sites, We make use of something called virtualenv to make our project locally sustainable and encapsulate it. virtualenv will be our base and we will create the steps below with in our Systematic Process guide the users through this project.
 
 
 <h1> Blue Print Process </h1>
