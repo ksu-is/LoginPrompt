@@ -10,4 +10,8 @@ First of all install Python3 and pip on your system from their respective sites,
 
 We will be using a related code from a Himanshu Sharma that he used framework Django https://medium.com/@himanshuxd/how-to-create-registration-login-webapp-with-django-2-0-fd33dc7a6c67
 
+Second Example that we will be using as an example using Flask: https://realpython.com/introduction-to-flask-part-2-creating-a-login-page/
+
+
+Third example that we will be using for desgining our project https://www.simplifiedpython.net/python-gui-login/
 <h1> Blue Print Process </h1>
