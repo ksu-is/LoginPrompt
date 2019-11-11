@@ -14,5 +14,3 @@ Second Example that we will be using as an example using Flask: https://realpyth
 
 
 Third example that we will be using for designing our project: https://www.simplifiedpython.net/python-gui-login/
-
-<h1> Blue Print Process </h1>
