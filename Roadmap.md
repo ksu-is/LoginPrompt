@@ -1,6 +1,6 @@
 <h1> Tasks List to Complete </h1>
 
- - [] Creating the code.
+- [ ] Creating the code.
 <input type="checkbox" name="tasks"> Testing.
 <input type="checkbox" name="tasks"> Outome.
 <input type="checkbox" name="tasks"> Sypnosis.
