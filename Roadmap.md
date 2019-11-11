@@ -4,7 +4,7 @@
 - [ ] Testing.
 - [ ] Outome.
 - [ ] Sypnosis.
-- [ ] Creating the planning phase.
+- [x] Creating the planning phase.
 - [ ] Images.
 - [ ] Terms and agreement for capturing the picture. 
 - [ ] design or template.
