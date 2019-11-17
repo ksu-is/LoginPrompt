@@ -7,6 +7,6 @@
 - [x] Creating the planning phase.
 - [ ] Images.
 - [ ] Terms and agreement for capturing the picture. 
-- [ ] design or template.
+- [x] design or template.
 - [ ] Writing the documentation.
 - [ ] Final record presenation.
